@@ -1,0 +1,12 @@
+﻿.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 12px;
+}
+
+.grid div {
+    background-color: #a8dadc;
+    padding: 30px;
+    text-align: center;
+    font-size: 1.5rem;
+}

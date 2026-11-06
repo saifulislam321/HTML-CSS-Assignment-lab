@@ -1,0 +1,14 @@
+﻿body {
+    margin: 0;
+}
+
+nav {
+    display: flex;
+    background-color: #222;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 14px 20px;
+}

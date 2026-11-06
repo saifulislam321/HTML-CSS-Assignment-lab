@@ -1,0 +1,16 @@
+﻿h1 {
+    color: navy;
+}
+
+.note {
+    font-style: italic;
+}
+
+#title {
+    text-decoration: underline;
+}
+
+p {
+    font-size: 18px;
+    color: grey;
+}

@@ -1,0 +1,15 @@
+﻿.box {
+    width: 200px;
+    padding: 20px;
+    border: 5px solid #1d3557;
+    background-color: #dbe7f5;
+    margin-bottom: 10px;
+}
+
+.content {
+    box-sizing: content-box;
+}
+
+.border {
+    box-sizing: border-box;
+}

@@ -1,0 +1,16 @@
+﻿.box1 {
+    width: 200px;
+    height: 40px;
+    background-color: lightblue;
+    margin-bottom: 10px;
+}
+
+.box2 {
+    width: 50%;
+    height: 40px;
+    background-color: lightgreen;
+}
+
+p {
+    font-size: 1.5rem;
+}

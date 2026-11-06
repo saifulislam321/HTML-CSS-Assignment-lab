@@ -1,0 +1,39 @@
+﻿body {
+    margin: 0;
+}
+
+.dashboard {
+    display: grid;
+    grid-template-columns: 200px 1fr;
+    grid-template-areas:
+        "header header"
+        "sidebar main"
+        "footer footer";
+    min-height: 100vh;
+}
+
+.header {
+    grid-area: header;
+    background-color: #1d3557;
+    color: white;
+    padding: 16px;
+}
+
+.sidebar {
+    grid-area: sidebar;
+    background-color: #a8dadc;
+    padding: 16px;
+}
+
+.main {
+    grid-area: main;
+    background-color: #f1faee;
+    padding: 16px;
+}
+
+.footer {
+    grid-area: footer;
+    background-color: #457b9d;
+    color: white;
+    padding: 16px;
+}

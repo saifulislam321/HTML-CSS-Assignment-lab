@@ -1,0 +1,13 @@
+﻿.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    background-color: #f1f6fb;
+    border: 2px solid #1d3557;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 8px;
+    width: 180px;
+}

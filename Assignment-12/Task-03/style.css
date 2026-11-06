@@ -1,0 +1,7 @@
+﻿.box {
+    width: 250px;
+    height: 120px;
+    overflow: auto;
+    border: 2px solid #333;
+    padding: 8px;
+}
